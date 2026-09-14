@@ -1,14 +1,32 @@
 # Fastray
 
-A v2rayNG-based VPN/proxy client for Android.
+فست‌ری یک اپلیکیشن فیلترشکن (VPN/پراکسی) برای اندروید است که بر پایه‌ی پروژه‌ی متن‌باز v2rayNG ساخته شده و با طراحی و امکانات اختصاصی، تجربه‌ای ساده‌تر و کاربرپسندتر ارائه می‌دهد.
 
-## Download
+## امکانات
 
-| Version | For | Download |
+- مدیریت اشتراک‌ها: افزودن، بروزرسانی و مرتب‌سازی خودکار سرورها بر اساس اشتراک
+- انتخاب «اشتراک محبوب»: یکی از اشتراک‌ها را به عنوان محبوب مشخص کنید تا برنامه هر بار در اولین اجرا، فقط همان اشتراک را بروزرسانی و پینگ کند
+- گروه «کانفیگ‌های تکی»: برای کانفیگ‌هایی که بدون لینک اشتراک اضافه می‌شوند
+- تست پینگ سرورها و اتصال خودکار/تصادفی به بهترین سرور
+- فیلترشکن روی برنامه‌ی خاص: امکان محدود کردن فیلترشکن به برنامه‌های انتخابی
+- بررسی خودکار بروزرسانی برنامه (هر ۳ روز و در هنگام باز شدن برنامه) با نصب مستقیم از داخل برنامه
+- رابط کاربری فارسی، راست‌چین و هماهنگ با فونت وزیرمتن
+
+## دانلود
+
+| نسخه | مناسب برای | دانلود |
 |---|---|---|
-| Universal | Any device / architecture | [Download](https://github.com/Saj-1992/FastRay/releases/latest/download/Fastray_2.5.1_universal.apk) |
-| arm64-v8a | Modern (64-bit ARM) phones - smaller download | [Download](https://github.com/Saj-1992/FastRay/releases/latest/download/Fastray_2.5.1_arm64-v8a.apk) |
+| Universal | همه‌ی گوشی‌ها | [دانلود](https://github.com/Saj-1992/FastRay/releases/latest/download/Fastray_1.0.1_universal.apk) |
+| arm64-v8a | گوشی‌های جدیدتر (۶۴ بیتی) - حجم کمتر | [دانلود](https://github.com/Saj-1992/FastRay/releases/latest/download/Fastray_1.0.1_arm64-v8a.apk) |
 
-Not sure which one to pick? Use **Universal** - it works everywhere. If you want a smaller download and your phone is from the last several years, **arm64-v8a** will work too.
+اگر مطمئن نیستید کدام نسخه را دانلود کنید، نسخه‌ی **Universal** را انتخاب کنید که روی همه‌ی گوشی‌ها کار می‌کند. اگر گوشی شما از چند سال اخیر است، نسخه‌ی **arm64-v8a** هم حجم کمتری دارد و به‌خوبی کار می‌کند.
 
-See the [Releases page](https://github.com/Saj-1992/FastRay/releases) for release notes and older versions.
+## نصب
+
+1. یکی از فایل‌های بالا را دانلود کنید.
+2. اگر اندروید هشدار «منابع ناشناس» داد، اجازه‌ی نصب را بدهید.
+3. برنامه را باز کرده و اشتراک خود را اضافه کنید.
+
+## بروزرسانی
+
+برنامه به‌صورت خودکار بروزرسانی‌های جدید را بررسی می‌کند و در صورت وجود نسخه‌ی جدید، از داخل تنظیمات می‌توانید آن را دانلود و نصب کنید. همچنین برای مشاهده‌ی تغییرات هر نسخه به [صفحه‌ی Releases](https://github.com/Saj-1992/FastRay/releases) مراجعه کنید.
