@@ -14,8 +14,8 @@
 
 | نسخه | مناسب برای | دانلود |
 |---|---|---|
-| Universal | همه‌ی گوشی‌ها | [دانلود](https://github.com/Saj-1992/FastRay/releases/latest/download/Fastray_1.0.2_universal.apk) |
-| arm64-v8a | گوشی‌های جدیدتر (۶۴ بیتی) - حجم کمتر | [دانلود](https://github.com/Saj-1992/FastRay/releases/latest/download/Fastray_1.0.2_arm64-v8a.apk) |
+| Universal | همه‌ی گوشی‌ها | [دانلود](https://github.com/Saj-1992/FastRay/releases/latest/download/Fastray_1.0.3_universal.apk) |
+| arm64-v8a | گوشی‌های جدیدتر (۶۴ بیتی) - حجم کمتر | [دانلود](https://github.com/Saj-1992/FastRay/releases/latest/download/Fastray_1.0.3_arm64-v8a.apk) |
 
 اگر مطمئن نیستید کدام نسخه را دانلود کنید، نسخه‌ی **Universal** را انتخاب کنید که روی همه‌ی گوشی‌ها کار می‌کند. اگر گوشی شما از چند سال اخیر است، نسخه‌ی **arm64-v8a** هم حجم کمتری دارد و به‌خوبی کار می‌کند.
 
